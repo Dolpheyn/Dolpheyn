@@ -17,4 +17,4 @@ Currently an AI degree student, seeking for an internship opportunity for Mar '2
 
 🦀 Currently grokking Rust at:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolpheyn&repo=rust-practice&&show_owner=true&theme=gruvbox)](https://github.com/dolpheyn/rust-practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolpheyn&repo=rust-playground&&show_owner=true&theme=gruvbox)](https://github.com/dolpheyn/rust-playground)
