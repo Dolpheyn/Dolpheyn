@@ -13,15 +13,11 @@ The outcome: [[NFT certification](https://opensea.io/assets/matic/0x3cd266509d12
 🤓 I'm a tech blog freak. I love to read about systems/backend {programming, architecture, optimizations}, blockchains, and ML(computer vision). Please recommend 
 any interesting blog/blogpost on the dApp I built! ^
 
----
-
-Currently an AI degree student, seeking for an internship opportunity for Mar '22.
-
-> 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/farissufyansuhaimi/) or at farissufyan99@gmail.com.
+![snake gif](https://github.com/dolpheyn/dolpheyn/blob/output/github-contribution-grid-snake.svg)
 
 ### Stats go 📈📈📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolpheyn&theme=gruvbox&layout=compact&langs_count=8&exclude_repo=lnn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolpheyn&theme=gruvbox&layout=compact&langs_count=8&exclude_repo=lnn,dminity)
 ![Dolpheyn's github stats](https://github-readme-stats.vercel.app/api?username=dolpheyn&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true&custom_title=Dolpheyn%27s%20Github%20Stats)
 
 🦀 Currently grokking Rust at:
